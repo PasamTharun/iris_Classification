@@ -2,7 +2,7 @@
 
 This project showcases machine learning techniques to classify the Iris dataset. We utilize both a Random Forest Classifier and a Neural Network to predict the species of iris flowers based on their features.
 
-🚀 Getting Started
+**🚀 Getting Started **
 <br>
 Dependencies:
 <br>
