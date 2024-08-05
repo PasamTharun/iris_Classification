@@ -1,24 +1,55 @@
-# iris_Classification
+# 🌸 Iris Classification
 
-This project demonstrates the use of machine learning techniques to classify the Iris dataset. We use both a Random Forest Classifier and a Neural Network to predict the species of iris flowers based on their features.
+This project showcases machine learning techniques to classify the Iris dataset. We utilize both a Random Forest Classifier and a Neural Network to predict the species of iris flowers based on their features.
 
-Dependencies
+#🚀 Getting Started
+-Dependencies
 Ensure you have the following libraries installed to run the code:
 
-            --numpy
-            --pandas
-            --scikit-learn
-            --matplotlib
-            --seaborn
-            --tensorflow
-Data Loading and Preparation
+          ->numpy
+          ->pandas
+          ->scikit-learn
+          ->matplotlib
+          ->seaborn
+          ->tensorflow
+You can install these libraries using pip:
+pip install numpy pandas scikit-learn matplotlib seaborn tensorflow
 
-Load the Iris dataset:-The dataset is loaded using scikit-learn's load_iris function.
+#📊 Data Loading and Preparation
+Load the Iris dataset: Use scikit-learn’s load_iris function.
+Create a DataFrame: Convert the data into a pandas DataFrame for easy manipulation.
+Split the data: Separate features from target labels.
+Encode target labels: Convert labels into numerical format using LabelEncoder.
+Train-Test Split: Divide the data into training and testing sets (80-20 ratio).
 
-Create a DataFrame:-The data is converted into a pandas DataFrame for easier manipulation and analysis.
+#🌲 Random Forest Classifier
+Initialize and Train: Train a Random Forest Classifier with 100 estimators on the training data.
+Evaluate the Model: Assess the model’s performance using accuracy, classification report, and confusion matrix.
+Visualize Results: Create visualizations for accuracy, classification report, and confusion matrix using matplotlib and seaborn.
 
-Split the data into features and target:-The features and target labels are separated.
+Results
+Accuracy: 0.97
+Classification Report: 
+Confusion Matrix:
 
-Encode target labels:-The target labels are encoded using LabelEncoder to convert them into numerical format.
+#🤖 Neural Network
+Normalize Features: Apply StandardScaler to normalize the data.
+Build and Train: Construct and train a neural network with one hidden layer.
+Evaluate the Model: Measure the model’s accuracy on the test set.
 
-Split the data into training and testing sets:-The data is split into training and testing sets using an 80-20 ratio.
+Results
+Accuracy: 0.98
+Accuracy Plot:
+
+#📈 Additional Metrics
+F1 Score: 0.96
+Precision Score: 0.97
+Recall Score: 0.95
+
+🔍 Correlation Matrix
+Visualize feature relationships with the correlation matrix.
+
+
+🏆 Conclusion
+This project demonstrates the effectiveness of both the Random Forest Classifier and Neural Network in classifying the Iris dataset. Both models achieve high accuracy, supported by detailed metrics and visualizations.
+
