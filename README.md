@@ -40,8 +40,9 @@ Evaluate the Model: Assess the model’s performance using accuracy, classificat
 <br>
 Visualize Results: Create visualizations for accuracy, classification report, and confusion matrix using matplotlib and seaborn.
 <br>
-**Results**
-Accuracy:<span style="color: green;">100%</span>
+__Results__
+<br>
+- Accuracy: <span style="color: green;">100%</span>
 <br>
 ##Classification Report:
 
