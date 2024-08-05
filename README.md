@@ -38,8 +38,14 @@ Visualize Results: Create visualizations for accuracy, classification report, an
 
 Results
 Accuracy: 0.97
-Classification Report: 
+Classification Report:
+
+![image](https://github.com/user-attachments/assets/72e0174e-58ee-43da-b7f6-0b4a5ace010c)
+<br>
+
 Confusion Matrix:
+
+
 
 #🤖 Neural Network
 Normalize Features: Apply StandardScaler to normalize the data.
