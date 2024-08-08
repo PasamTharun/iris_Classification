@@ -66,6 +66,8 @@ Evaluate the Model: Measure the model’s accuracy on the test set.
 Accuracy: 1.0
 <br>
 Accuracy Plot:
+![Screenshot 2024-08-09 004437](https://github.com/user-attachments/assets/396bda48-f01d-4b5a-b14a-92684ab5c2fb)
+<br>
 
 ##📈 Additional Metrics
 F1 Score: 0.96
