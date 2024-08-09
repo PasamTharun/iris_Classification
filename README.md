@@ -5,7 +5,6 @@ This project showcases machine learning techniques to classify the Iris dataset.
 <h2>🚀Getting Started</h2>
 <br>
 <b>Dependencies:</b>
-<br>
 Ensure you have the following libraries installed to run the code:
 
           ->numpy
@@ -22,7 +21,6 @@ You can install these libraries using pip:
 ```
 <br>
 <h2>📊Data Loading and Preparation</h2>
-<br>
 Load the Iris dataset: Use scikit-learn’s load_iris function.
 <br>
 Create a DataFrame: Convert the data into a pandas DataFrame for easy manipulation.
@@ -34,13 +32,11 @@ Encode target labels: Convert labels into numerical format using LabelEncoder.
 Train-Test Split: Divide the data into training and testing sets (80-20 ratio).
 <br>
 <h2>🌲Random Forest Classifier</h2>
-
 Initialize and Train:-Train a Random Forest Classifier with 100 estimators on the training data.
 <br>
 Evaluate the Model:-Assess the model’s performance using accuracy, classification report, and confusion matrix.
 <br>
 <h2>📈Visualize Results:</h2>
-
 Create visualizations for accuracy, classification report, and confusion matrix using matplotlib and seaborn.
 <br>
 <h2>🎯Classification Report:</h2>
@@ -66,8 +62,7 @@ Accuracy:-100%
 <b>Accuracy Plot Of Neural Networks:</b>
 <br>
 
-![Screenshot 2024-08-09 094452](https://github.com/user-attachments/assets/d865ac34-6a1b-4564-982b-a6f961fcb77d)
-<br>
+![image](https://github.com/user-attachments/assets/9e42efc2-f16c-4a87-b990-2a1f27655bc1)
 <h2>🔍 Correlation Matrix:-</h2>
 Visualize feature relationships with the correlation matrix.
 
