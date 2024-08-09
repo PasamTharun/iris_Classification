@@ -34,15 +34,18 @@ Encode target labels: Convert labels into numerical format using LabelEncoder.
 Train-Test Split: Divide the data into training and testing sets (80-20 ratio).
 <br>
 ##🌲 Random Forest Classifier
+<br>
 Initialize and Train: Train a Random Forest Classifier with 100 estimators on the training data.
 <br>
-Evaluate the Model: Assess the model’s performance using accuracy, classification report, and confusion matrix.
+Evaluate the Model: 
 <br>
-Visualize Results: Create visualizations for accuracy, classification report, and confusion matrix using matplotlib and seaborn.
+Assess the model’s performance using accuracy, classification report, and confusion matrix.
+<br>
+📈Visualize Results: 
+<br>
+Create visualizations for accuracy, classification report, and confusion matrix using matplotlib and seaborn.
 <br>
 __Results__
-<br>
-- Accuracy: <span style="color: green;">100%</span>
 <br>
 ##Classification Report:
 
@@ -50,31 +53,29 @@ __Results__
 
 ##Confusion Matrix:
 
-![image](https://github.com/user-attachments/assets/3c6cc7d9-740b-4471-acaa-6ab3f26f9212)
 
-##🤖 Neural Network
+<b>#🤖 Neural Network</b>
 <br>
-Normalize Features: Apply StandardScaler to normalize the data.
+Normalize Features: 
 <br>
-Build and Train: Construct and train a neural network with one hidden layer.
+Apply StandardScaler to normalize the data.
 <br>
-Evaluate the Model: Measure the model’s accuracy on the test set.
+Build and Train: 
 <br>
-
+Construct and train a neural network with one hidden layer.
+<br>
+Evaluate the Model: 
+<br>
+Measure the model’s accuracy on the test set.
+<br>
 ##Results
 <br>
 Accuracy: 1.0
 <br>
 Accuracy Plot:
 <br>
-![Screenshot 2024-08-09 004437](https://github.com/user-attachments/assets/396bda48-f01d-4b5a-b14a-92684ab5c2fb)
+![Screenshot 2024-08-09 094452](https://github.com/user-attachments/assets/d865ac34-6a1b-4564-982b-a6f961fcb77d)
 <br>
-
-##📈 Additional Metrics
-F1 Score: 0.96
-Precision Score: 0.97
-Recall Score: 0.95
-
 ##🔍 Correlation Matrix
 Visualize feature relationships with the correlation matrix.
 
