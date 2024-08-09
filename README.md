@@ -70,3 +70,5 @@ Visualize feature relationships with the correlation matrix.
 
 This project demonstrates the effectiveness of both the Random Forest Classifier and Neural Network in classifying the Iris dataset. Both models achieve high accuracy, supported by detailed metrics and visualizations.
 
+<br>
+<h2>Author-Pasam Tharun</h2>
