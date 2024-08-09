@@ -3,7 +3,6 @@
 This project showcases machine learning techniques to classify the Iris dataset. We utilize both a Random Forest Classifier and a Neural Network to predict the species of iris flowers based on their features.
 
 <h2>🚀Getting Started</h2>
-<br>
 <b>Dependencies:</b>
 Ensure you have the following libraries installed to run the code:
 
@@ -19,7 +18,6 @@ You can install these libraries using pip:
 ```bash
    pip install numpy pandas scikit-learn matplotlib seaborn tensorflow
 ```
-<br>
 <h2>📊Data Loading and Preparation</h2>
 Load the Iris dataset: Use scikit-learn’s load_iris function.
 <br>
