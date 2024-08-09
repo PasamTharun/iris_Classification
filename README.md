@@ -52,9 +52,9 @@ __Results__
 ![image](https://github.com/user-attachments/assets/72e0174e-58ee-43da-b7f6-0b4a5ace010c)
 
 ##Confusion Matrix:
-
-
-<b>#🤖 Neural Network</b>
+![image](https://github.com/user-attachments/assets/fa2bc18c-6a68-4579-a05e-dba22c52bcfd)
+<br>
+<h2>#🤖 Neural Network</h2>
 <br>
 Normalize Features: 
 <br>
